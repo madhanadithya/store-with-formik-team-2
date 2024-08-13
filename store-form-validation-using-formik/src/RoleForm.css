@@ -1,0 +1,62 @@
+.outering {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: azure;
+  }
+  
+  .hesdingh1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .flexadd {
+    margin-bottom: 15px;
+  }
+  
+  .flexadd label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .flexadd input[type="text"] {
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .flexadd input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  .status-active {
+    color: green;
+  }
+  
+  .status-inactive {
+    color: red;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 5px;
+  }
+  
+  .btss {
+    color: white;
+    padding: 10px 20px;
+    background-color: rgb(64, 195, 64);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btss:hover {
+    background-color: rgb(50, 180, 50);
+  }
+  
