@@ -1,0 +1,31 @@
+.Categorylist{
+  padding-top: 10px;
+}
+
+.editButton{
+  color: black;
+  padding: 10px 20px;
+  background-color: rgb(64, 195, 64);
+  border-radius: 5px;
+  margin-right: 5px;
+}
+div button{
+  background-color: red;
+}
+.Outer{
+  border: 2px solid black;
+  border-radius: 10px;
+  width: fit-content;
+  padding: 20px;
+  margin: auto;
+  margin-top:30px;
+  background-color: azure;
+}
+.new{
+  text-decoration: none;
+  border: 2px solid black;
+  background-color:  #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 9px;
+}
